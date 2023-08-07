@@ -98,7 +98,7 @@ Je fuirai en panique.
 
 Dans la figure 3, j'ai placé côte à côte une carte de la bataille des Thermopyles et un diagramme SWOT pour la même bataille.
 
-![](fr-wardley-maps/01-être-perdu/images/1Uk5tLoqC16H8baB2BJbrsw.png
+![](fr-wardley-maps/01-être-perdu/images/1Uk5tLoqC16H8baB2BJbrsw.png)
 
 _Figure 3 — SWOT de Thémistocle_
 

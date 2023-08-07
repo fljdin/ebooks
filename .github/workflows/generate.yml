@@ -5,6 +5,7 @@ on:
     inputs:
       book:
         required: true
+        default: directory
         description: Book directory
 
 jobs:
@@ -13,16 +14,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # in-line shell command to convert all .webp to supported .png format
-      - uses: jruipinto/ImageMagick-action@v1
-        with:
-          command: find . -name "*.webp" -exec sh -c 'convert "$1" "${1%.webp}.png"' sh {} \;
-
       - name: retrieve chapters
         id: chapters
         run: |
           mkdir output
-          echo "files=$(find ${{ github.event.inputs.book }} -name '*.md')" > $GITHUB_OUTPUT
+          echo "files=$(printf '"%s" ' $(find ${{ github.event.inputs.book }} -name '*.md'))" > $GITHUB_OUTPUT
 
       - uses: docker://pandoc/latex:3.1
         with:
