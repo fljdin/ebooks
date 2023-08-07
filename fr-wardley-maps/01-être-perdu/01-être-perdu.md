@@ -6,6 +6,8 @@ reference:
   url: https://fabulous-cruiser-75d.notion.site/Chapitre-1-Sur-la-perte-de-rep-res-1fe1cd789faa47f894fb691160d14948
 ---
 
+## Chapitre 1 — Être perdu
+
 Voici l'histoire de mon voyage, d'un PDG empoté et confus, perdu dans les feux du changement, à celui qui avait une vague idée de ce qu'il faisait. Je dis vague, car je ne vais pas faire de grandes revendications sur les techniques que je discute dans ce livre. Il suffit de dire que je les ai trouvées utiles au cours de la dernière décennie, que ce soit pour trouver des opportunités, éliminer les pertes, aider à organiser une équipe de personnes ou déterminer la stratégie d'une entreprise. Est-ce qu'elles vous aideront ? Tout dépend du contexte dans lequel vous opérez, mais comme les techniques ne prennent pas beaucoup de temps à apprendre, je laisserai au lecteur ou à la lectrice le soin de découvrir si elles lui sont utiles ou non. N'oubliez pas, tous les modèles sont faux, mais certains sont utiles.
 
 Dans la première partie de ce livre, je vais parler de mon voyage afin d'introduire les techniques. Dans les chapitres suivants, nous changeront de vitesse et passerons à un examen plus formel de la pratique. Une chose à laquelle je suis attentif est que nous apprenons rarement de l'expérience passée, surtout quand elle appartient à d'autres personnes ou quand elle entre en conflit avec notre perception des choses. Cependant, si vous êtes comme je l'étais autrefois, perdu en mer, alors cela pourrait vous aider à trouver votre chemin. Pour moi, ce voyage a commencé il y a deux décennies dans l'ascenseur de l'hôtel Arts de Barcelone. Cela a commencé quand un cadre supérieur m'a remis un court document et a demandé : "Cette stratégie a-t-elle du sens ?"
