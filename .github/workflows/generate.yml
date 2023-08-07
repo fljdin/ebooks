@@ -1,0 +1,32 @@
+name: Generate
+
+on: 
+  workflow_dispatch:
+    inputs:
+      book:
+        required: true
+        description: Book directory
+
+jobs:
+  pandoc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: retrieve chapters
+        id: chapters
+        run: |
+          echo "files=$(find ${{ github.event.inputs.book }} -name '*.md')" > $GITHUB_OUTPUT
+
+      - uses: docker://pandoc/latex:3.1
+        with:
+          args: >-
+            --standalone
+            --output=output/result.epub 
+            ${{ github.event.inputs.book }}/title.txt
+            ${{ steps.chapters.outputs.files }}
+          
+      - uses: actions/upload-artifact@v3
+        with:
+          name: output
+          path: output
