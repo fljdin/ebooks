@@ -16,13 +16,14 @@ jobs:
       - name: retrieve chapters
         id: chapters
         run: |
+          mkdir output
           echo "files=$(find ${{ github.event.inputs.book }} -name '*.md')" > $GITHUB_OUTPUT
 
       - uses: docker://pandoc/latex:3.1
         with:
           args: >-
             --standalone
-            --output=output/result.epub 
+            --output=output/${{ github.event.inputs.book }}.epub
             ${{ github.event.inputs.book }}/title.txt
             ${{ steps.chapters.outputs.files }}
           
