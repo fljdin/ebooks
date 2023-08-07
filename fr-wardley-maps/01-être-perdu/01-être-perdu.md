@@ -32,7 +32,7 @@ J'ai rapidement découvert qu'au-delà de la haute direction, personne ne compre
 
 Par hasard, j'avais pris une copie de "L'art de la guerre" de Sun Tzu. À vrai dire, j'ai pris plusieurs traductions différentes, car le libraire m'avait dit qu'aucune d'entre elles n'était tout à fait la même. C'était un heureux hasard et je dois remercier ce libraire. En effet, c'est en lisant la seconde traduction que j'ai remarqué quelque chose qui m'avait échappé dans ma compréhension de la stratégie. Sun Tzu avait décrit cinq facteurs qui comptent dans la compétition entre deux adversaires. Succinctement il s'agit de : — l’objectif, du paysage, du climat, de la doctrine et du leadership. Je les ai dessinés sous forme de cercle dans la figure 1.
 
-![](/fr-wardley-maps/01-être-perdu/images/1RSH2vh_xgQtjB68Zb7oBaA.png)
+![](fr-wardley-maps/01-être-perdu/images/1RSH2vh_xgQtjB68Zb7oBaA.png)
 
 _Figure 1 — Les cinq facteurs_
 
@@ -60,7 +60,7 @@ Aux échecs, la stratégie consiste à déterminer le pourquoi du mouvement, c'e
 
 C'est en comprenant le paysage, les règles du jeu et le contexte spécifique que j'ai commencé à maîtriser les échecs. Mais, ce n'était pas ce que je faisais dans le monde des affaires. Je n'avais aucun moyen de visualiser l'environnement, aucun moyen de déterminer pourquoi ici plutôt que là, et aucun mécanisme évident d'apprentissage d'un jeu à l'autre. J'ai ajouté ces deux types de "pourquoi" à la figure 2, en m'appuyant sur les cinq facteurs de Sun Tzu.
 
-![](/fr-wardley-maps/01-être-perdu/images/1oedrZ78WV5eOaiVxhV5qow.png)
+![](fr-wardley-maps/01-être-perdu/images/1oedrZ78WV5eOaiVxhV5qow.png)
 
 _Figure 2 — Les deux types de pourquoi_
 
@@ -98,7 +98,7 @@ Je fuirai en panique.
 
 Dans la figure 3, j'ai placé côte à côte une carte de la bataille des Thermopyles et un diagramme SWOT pour la même bataille.
 
-![](/fr-wardley-maps/01-être-perdu/images/1Uk5tLoqC16H8baB2BJbrsw.png)
+![](fr-wardley-maps/01-être-perdu/images/1Uk5tLoqC16H8baB2BJbrsw.png
 
 _Figure 3 — SWOT de Thémistocle_
 
@@ -116,7 +116,7 @@ Je vais vous faire vivre la même expérience de pensée que moi. Rappelez-vous,
 
 Je veux que vous imaginiez maintenant que vous vivez dans un monde où tout le monde joue aux échecs et où la qualité de votre jeu détermine votre succès et votre rang dans ce monde. Cependant, dans ce monde, personne n'a jamais vu d'échiquier. En fait, tout ce que vous avez vu, ce sont les caractères suivants sur un écran. Vous jouez ainsi le jeu en cliquant simplement sur un des caractères, votre adversaire riposte, puis vous ripostez, et ainsi de suite. La liste des coups est enregistrée sous les caractères.
 
-![](/fr-wardley-maps/01-être-perdu/images/1fKQnKEcAIUUgiZxfIuq87w.png)
+![](fr-wardley-maps/01-être-perdu/images/1fKQnKEcAIUUgiZxfIuq87w.png)
 
 _Figure 4 — Le monde des échecs (Pawn = pion, Queen = reine)_
 
@@ -126,7 +126,7 @@ Les gourous écriront des livres sur les "Secrets de la Reine" et les gens copie
 
 Imaginez maintenant que vous jouiez contre quelqu'un qui peut voir quelque chose de vraiment remarquable - le plateau. Dans ce jeu, vous déplacerez le pion (w), l'adversaire contrera le pion (b), vous déplacerez à nouveau le pion (w), il contrera la dame (b) et vous aurez perdu. Je l'ai illustré dans la figure 5 ci-dessous.
 
-![](/fr-wardley-maps/01-être-perdu/images/1-yrQMUlXPPQ-2PJ71nWThQ.png)
+![](fr-wardley-maps/01-être-perdu/images/1-yrQMUlXPPQ-2PJ71nWThQ.png)
 
 _Figure 5 — Le monde des échècs VS le plateau (Pawn = pion, Queen = reine)_
 
@@ -144,7 +144,7 @@ La première, et la plus évidente, est qu'elles sont visuelles. Si je devais d�
 
 La seconde chose à noter avec une carte est qu'elle est spécifique au contexte, c'est-à-dire à la bataille en cours. Vous apprenez de ce contexte et de la façon dont les éléments s'y déplacent, de la même façon que vous apprenez des parties d'échecs. Toutefois, pour ce faire, vous devez connaître la position des pièces sur la carte et savoir où elles peuvent se déplacer. Or, la position est relative à quelque chose. Dans le cas d'une carte géographique, elle est relative à la boussole, c'est-à-dire que telle pièce est au nord de telle autre. La boussole sert de point d'ancrage à la carte. Dans le cas d'un échiquier, c'est l'échiquier lui-même qui sert de point d'ancrage, par exemple, cette pièce est en position C1 ou B3. Cela m'a donné six éléments de base absolus pour toute carte : la représentation visuelle, le contexte spécifique, la position des composants par rapport à une forme de repère et du mouvement de ces composants. J'ai résumé ces éléments dans la figure 6.
 
-![](/fr-wardley-maps/01-être-perdu/images/1AZyJ0pVpLvML0_RLrCdC3A.png)
+![](fr-wardley-maps/01-être-perdu/images/1AZyJ0pVpLvML0_RLrCdC3A.png)
 
 _Figure 6 — Éléments de base d'une carte_
 
@@ -180,7 +180,7 @@ Cet exemple vise à de démontrer trois choses. Tout d'abord, le processus strat
 
 La meilleure façon que j'ai trouvée pour faire face à ce cycle est le travail du major fou lui-même — l'exceptionnel John Boyd. Afin de comprendre le processus du combat aérien, John Boyd a développé la boucle OODA. Il s'agit d'un cycle d'observation de l'environnement, d'orientation, de décision et d'action. Dans la figure 7 ci-dessous, j'ai marié Sun Tzu et John Boyd pour créer un cycle de stratégie.
 
-![](/fr-wardley-maps/01-être-perdu/images/1fiwMV1ucsm0nk6XPY4wxkg.png)
+![](fr-wardley-maps/01-être-perdu/images/1fiwMV1ucsm0nk6XPY4wxkg.png)
 
 _Figure 7 — Le cycle de la stratégie_
 
