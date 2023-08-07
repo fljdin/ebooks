@@ -5,6 +5,7 @@ on:
     inputs:
       book:
         required: true
+        default: directory
         description: Book directory
 
 jobs:
@@ -17,7 +18,7 @@ jobs:
         id: chapters
         run: |
           mkdir output
-          echo "files=$(find ${{ github.event.inputs.book }} -name '*.md')" > $GITHUB_OUTPUT
+          echo "files=$(printf '"%s" ' $(find ${{ github.event.inputs.book }} -name '*.md'))" > $GITHUB_OUTPUT
 
       - uses: docker://pandoc/latex:3.1
         with:
