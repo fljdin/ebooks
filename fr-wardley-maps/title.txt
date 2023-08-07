@@ -1,17 +1,17 @@
 ---
-title: 
+title:
 - type: main
   text: Wardley Maps
-- subtitle:
+- type: subtitle
   text: Topographical intelligence in business
 creator: 
 - role: author
   text: Simon Wardley
-  url: https://medium.com/wardleymaps
-- role: traductor
+  reference: https://medium.com/wardleymaps
+- role: translator
   text: Mathieu Jolly
-  url: https://linktr.ee/mathieujolly
-rights: Creative commons Attribution-ShareAlike 4.0 International
+  reference: https://linktr.ee/mathieujolly
+rights: CC BY-SA 4.0
 lang: fr-FR
 description: |
   La traduction de cette publication est proposée sous licence Creative Commons Attribution-ShareAlike 4.0 International
