@@ -156,7 +156,7 @@ La première, et la plus évidente, est qu'elles sont visuelles. Si je devais d�
 
 La seconde chose à noter avec une carte est qu'elle est spécifique au contexte, c'est-à-dire à la bataille en cours. Vous apprenez de ce contexte et de la façon dont les éléments s'y déplacent, de la même façon que vous apprenez des parties d'échecs. Toutefois, pour ce faire, vous devez connaître la position des pièces sur la carte et savoir où elles peuvent se déplacer. Or, la position est relative à quelque chose. Dans le cas d'une carte géographique, elle est relative à la boussole, c'est-à-dire que telle pièce est au nord de telle autre. La boussole sert de point d'ancrage à la carte. Dans le cas d'un échiquier, c'est l'échiquier lui-même qui sert de point d'ancrage, par exemple, cette pièce est en position C1 ou B3. Cela m'a donné six éléments de base absolus pour toute carte : la représentation visuelle, le contexte spécifique, la position des composants par rapport à une forme de repère et du mouvement de ces composants. J'ai résumé ces éléments dans la figure 6.
 
-![](fr-wardley-maps/01-être-perdu/images/1AZyJ0pVpLvML0_RLrCdC3A.png)
+![](fr-wardley-maps/01-être-perdu/images/figure-006.png)
 
 _Figure 6 — Éléments de base d'une carte_
 
