@@ -6,7 +6,7 @@ reference:
   url: https://fabulous-cruiser-75d.notion.site/Chapitre-2-Trouver-un-chemin-7ce9dfb7dbc94c4fb996dcd7c0dd23e6
 ---
 
-## Chapitre 2 — Trouver un chemin
+# Chapitre 2 — Trouver un chemin
 
 Le problème que je me posais était de savoir comment cartographier l'activité d'une entreprise. Contrairement à un jeu de société tel que les échecs, dont les mouvements se décident tour par tour, une entreprise est une chose vivante. Elle se compose d'un réseau de personnes, d'une série d'activités différentes et de réserves de capitaux, qu'ils soient financiers, physiques, humains ou sociaux. Elle consomme, elle produit, elle croît et elle meurt. Comme tous les organismes, toute entreprise existe au sein d'une communauté d'autres organismes, un écosystème. Elle est en concurrence et coopère pour les ressources, elle est façonnée par son environnement et le façonne. Même au sein d'une entreprise, les salarié·e·s vont et viennent. Les choses que nous faisons, les choses que nous construisons et les choses que les autres désirent changent au fil du temps. Toutes les entreprises sont en constante évolution et l'écosystème dans lequel elles vivent n'est jamais figé. Quel type de carte peut faire face à cela ?
 
@@ -34,11 +34,13 @@ En 2004, Thomas n'avait pas tenté cette expérience, mais j'étais tout à fait
 
 Mais, dans toute cette complexité, il y avait aussi du réconfort. Je savais que mon monde était constitué d'éléments et qu'il avait donc ses propres pièces d'échecs. Ces pièces changeaient, mais il y avait peut-être un moyen de décrire l'évolution et le passage de la nouveauté à la banalité. Mais, le mouvement n'est pas suffisant pour une carte, j'avais aussi besoin de trouver la position de ces composants et cela nécessitait une forme d'ancrage. Hélas, je ne disposais pas de repère (ancrage) et sans lui, j'étais toujours perdu.
 
-### La première carte
+---
+
+## La première carte
 
 Dans les chapitres suivants, j'expliquerai en détail comment cette première carte a été créée, comment j'ai découvert cette ancre et, enfin, comment j'ai décrit le mouvement de l'évolution. Toutefois, pour ce qui nous intéresse, je vais simplement vous montrer une carte, vous expliquer les éléments qui comptent et l'utiliser ensuite pour naviguer dans le cycle de la stratégie. J'aimerais beaucoup prétendre que cette carte est le résultat d'une grande puissance intellectuelle, mais en réalité, comme vous le découvrirez plus tard, il s'agit plutôt d'essais et d'erreurs combinés à d'innombrables accidents. La figure 8 représente ce à quoi devrait ressembler la carte d'un simple type d'activité. J'ai créé ma première carte en 2005, pour un service de photos en ligne que je dirigeais. Prenez quelques minutes pour la lire attentivement.
 
-![](fr-wardley-maps/02-trouver-un-chemin/images/1aBw7WVHYdishIeMqUMlHBA.png)
+![](fr-wardley-maps/02-trouver-un-chemin/images/figure-008.png)
 
 _Figure 8 — A Map_
 
@@ -50,17 +52,17 @@ Les composantes de la carte ont également un stade d'évolution. Il s'agit de :
 
 La Genèse. Elle représente l'unique, le très rare, l'incertain, le changement constant et la nouvelle découverte. Nous mettons l'accent sur l'exploration.
 
-Le Construit sur mesure. Il s'agit de ce qui n'est pas courant et de ce que nous sommes encore en train d'apprendre. Il est fabriqué individuellement et taillé sur mesure pour un environnement spécifique. Il est sur mesure. Il change fréquemment. Il s'agit d'un savoir-faire artisanal. On ne s'attend pas à en voir deux identiques. A cette étape, nous mettons l'accent sur l'apprentissage et sur notre métier.
+* Le Construit sur mesure. Il s'agit de ce qui n'est pas courant et de ce que nous sommes encore en train d'apprendre. Il est fabriqué individuellement et taillé sur mesure pour un environnement spécifique. Il est sur mesure. Il change fréquemment. Il s'agit d'un savoir-faire artisanal. On ne s'attend pas à en voir deux identiques. A cette étape, nous mettons l'accent sur l'apprentissage et sur notre métier.
 
-Le Produit (y compris la location). Cela représente ce qui est de plus en plus courant, ce qui est fabriqué selon un processus reproductible, ce qui est mieux défini, ce qui est mieux compris. Le changement y est plus lent. Bien qu'il existe une différenciation, en particulier dans les premiers stades, la stabilité et la similitude augmentent. Vous verrez souvent un grand nombre de produits identiques. A cette étape nous nous concentrons sur le raffinement et l'amélioration.
+* Le Produit (y compris la location). Cela représente ce qui est de plus en plus courant, ce qui est fabriqué selon un processus reproductible, ce qui est mieux défini, ce qui est mieux compris. Le changement y est plus lent. Bien qu'il existe une différenciation, en particulier dans les premiers stades, la stabilité et la similitude augmentent. Vous verrez souvent un grand nombre de produits identiques. A cette étape nous nous concentrons sur le raffinement et l'amélioration.
 
-La Commodité (y compris les services d'utilité publique). Il s'agit d'opérations de production de masse et de volume, hautement standardisées, définies, fixes, indifférenciées, adaptées à un objectif spécifique connu et répétées, répétées et encore répétées. A cette étape, nous nous concentrons sur l'élimination impitoyable des écarts, sur l'industrialisation et sur l'efficacité opérationnelle. Avec le temps, nous nous habituons à l'acte, il est de moins en moins visible et nous oublions souvent qu'il existe.
+* La Commodité (y compris les services d'utilité publique). Il s'agit d'opérations de production de masse et de volume, hautement standardisées, définies, fixes, indifférenciées, adaptées à un objectif spécifique connu et répétées, répétées et encore répétées. A cette étape, nous nous concentrons sur l'élimination impitoyable des écarts, sur l'industrialisation et sur l'efficacité opérationnelle. Avec le temps, nous nous habituons à l'acte, il est de moins en moins visible et nous oublions souvent qu'il existe.
 
 Cette évolution est représentée par l'axe des x et tous les composants de la carte se déplacent de gauche à droite sous l'effet de la concurrence de l'offre et de la demande. En d'autres termes, la carte n'est pas statique, mais fluide et, au fur et à mesure que les composants évoluent, ils s'apparentent de plus en plus à des produits de base.
 
 Dans la figure 9, j'ai repris la carte originale ci-dessus et j'ai explicitement mis en évidence les éléments qui comptent. Cette carte présente tous les éléments premiers de toute carte — visuel, contexte spécifique, position des composants (basée sur un point de repère) et mouvement. Dans les chapitres suivants, nous étudierons chacun de ces éléments plus en détail.
 
-![](fr-wardley-maps/02-trouver-un-chemin/images/19UXhn8Ne74Ijfn931sjOPw.png)
+![](fr-wardley-maps/02-trouver-un-chemin/images/figure-009.png)
 
 _Figure 9 — Éléments premiers d'une carte_
 
@@ -68,19 +70,19 @@ Toutefois, la carte présente également des caractéristiques avancées qui ne 
 
 Les composants peuvent également représenter différents types de choses, l'équivalent militaire des différentes troupes — infanterie, chars et artillerie. Dans ces cartes de Wardley, le nom commun qui leur est désormais donné en raison de mon incapacité à trouver un nom utile, ces types représentent des activités, des pratiques, des données et des connaissances. Tous ces types de composants peuvent se déplacer et, dans notre cas, cela signifie évoluer de gauche à droite sous l'effet de la concurrence. Toutefois, les termes que nous utilisons pour décrire les différentes étapes de l'évolution sont différents pour chaque type. Pour que la carte reste simple, l'axe des abscisses de l'évolution présente les termes relatifs aux seules activités. Les termes que j'utilise aujourd'hui pour d'autres types de choses sont indiqués dans la figure 10.
 
-![](fr-wardley-maps/02-trouver-un-chemin/images/1PqRZpTXh4NJF_gfMtt8tsg.png)
+![](fr-wardley-maps/02-trouver-un-chemin/images/figure-010.png)
 
 _Figure 10 — Les types et les étapes d’évolution_
 
 Enfin, des schémas climatiques peuvent être représentés sur la carte. J'ai mis en évidence ces éléments plus avancés sur la figure 11.
 
-![](fr-wardley-maps/02-trouver-un-chemin/images/1QD633OZDJxds3MWe_cbvUA.png)
+![](fr-wardley-maps/02-trouver-un-chemin/images/figure-011.png)
 
 _Figure 11 — Éléments avancés d'une carte_
 
 Dans la carte ci-dessus, on considère que la plate-forme évolue vers une forme plus utilitaire et qu'il existe une inertie au changement. Normalement, nous ne marquons pas tous ces éléments de base et avancés de cette manière. Nous acceptons simplement qu'ils soient là. Cependant, il est bon de savoir qu'ils existent. La manière normale de représenter la carte ci-dessus est présentée dans la figure 12.
 
-![](fr-wardley-maps/02-trouver-un-chemin/images/17-i37e9wxZ2c7OohDB-OAA.png)
+![](fr-wardley-maps/02-trouver-un-chemin/images/figure-012.png)
 
 _Figure 12 — Une représentation standard_
 
@@ -88,7 +90,9 @@ Maintenant que nous disposons d'une carte simple telle que la figure 12, nous po
 
 Les cartes sont fondamentalement un outil de communication et d'apprentissage. Dans le prochain chapitre, nous allons parcourir le cycle de la stratégie afin que je puisse vous enseigner certaines des leçons fondamentales que j'ai apprises. Mais, avant cela, j'aimerais décrire quelques étapes pour vous aider à créer vos propres cartes.
 
-### Etape 1 — Les besoins
+---
+
+## Etape 1 — Les besoins
 
 Le point de repère est essentiel pour la cartographie et vous devez donc d'abord vous concentrer sur le besoin de l'utilisateur. Pour ce faire, vous devez définir le champ d'application de ce que vous examinez : s'agit-il d'un salon de thé, d'une entreprise automobile, d'un État-nation ou d'un système spécifique ? L'astuce consiste à commencer quelque part. Au cours du processus de cartographie, vous constaterez souvent qu'il est nécessaire d'élargir ou de réduire votre champ d'application, et il n'y a rien de mal à cela. La carte d'une entreprise particulière fait partie d'une carte plus large de l'écosystème dans lequel l'entreprise opère. La carte d'un système particulier au sein d'une entreprise fait partie de la carte de l'ensemble de l'entreprise. Vous pouvez étendre et réduire la carte selon vos besoins. Il convient de noter que les besoins des utilisateurs d'une carte sont des composantes d'une autre carte. Par exemple, les besoins des utilisateurs d'une entreprise produisant des écrous et des boulons deviennent les composants utilisés (c'est-à-dire les écrous et les boulons) pour une entreprise produisant des automobiles ou des ponts.
 
@@ -100,11 +104,13 @@ Vous devez réfléchir précisément aux besoins de vos utilisateurs. Si vous ê
 
 Lorsque vous discutez avec les utilisateurs, outre la liste habituelle des besoins (par exemple, je veux que ma tasse de thé me rende fabuleusement spirituel, mince et beau), vous pouvez constater qu'ils ont de véritables besoins non satisfaits ou des besoins nouveaux qu'ils ont du mal à décrire. Ces besoins sont importants. Ne les ignorez pas simplement parce que vous n'y répondez pas pour le moment. En 2005, les besoins de nos utilisateurs pour le service de photos en ligne incluaient le partage de photos en ligne avec d'autres utilisateurs. Pour ce faire, nous devions disposer d'une capacité de stockage de photos numériques et d'un site web permettant de les télécharger et de les partager avec d'autres utilisateurs. Ces capacités sont les composants de plus haut niveau et la manifestation des besoins de l'utilisateur. Pour nous, cela comprenait le stockage de photos numériques, la manipulation d'images (suppression des yeux rouges, recadrage), le partage d'images via le site web et l'impression de produits physiques, des photos aux tapis de souris. Ces éléments sont illustrés à la figure 13.
 
-![](fr-wardley-maps/02-trouver-un-chemin/images/1x0ovFBM_aq7DxseX0nOuRQ.png)
+![](fr-wardley-maps/02-trouver-un-chemin/images/figure-013.png)
 
 _Figure 13 — Les besoins de l’utilisateur_
 
-### Etape 2 — La chaîne de valeur
+---
+
+## Etape 2 — La chaîne de valeur
 
 Si connaître les besoins des utilisateurs est un bon début, cela ne signifie pas que le produit va se construire tout seul. D'autres éléments entrent en jeu et c'est ce que nous appelons une chaîne de valeur. On peut la déterminer simplement en posant d'abord la question "quel est le besoin de l'utilisateur ?", puis en posant d'autres questions "quels sont les composants dont nous avons besoin pour développer cette capacité ?”
 
@@ -112,7 +118,7 @@ Par exemple, dans le cas de notre service de photos en ligne, une fois les besoi
 
 Pour chaque sous-composant, d'autres sous-composants doivent être identifiés jusqu'à ce que les sous-composants sortent du contexte de votre cartographie. L'électricité n'a pas besoin d'être décomposée davantage si l'entreprise la consomme auprès d'un fournisseur d'électricité. Par exemple, la manipulation de photos numériques en ligne nécessite une sorte de composant de stockage de photos numériques en ligne. Ce dernier a besoin d'un site web qui, à son tour, a besoin d'une plateforme qui, à son tour, a besoin de ressources de calcul, de ressources de stockage, d'un système d'exploitation, d'un réseau, d'une alimentation électrique, etc. Ces composants feront partie de votre chaîne de valeur et chaque composant ne doit être écrit qu'une seule fois. Lorsque le groupe estime qu'un ensemble raisonnable de composants répondant à tous les besoins a été rédigé, il trace une ligne verticale unique et la marque comme étant la chaîne de valeur, comme le montre la figure 14.
 
-![](fr-wardley-maps/02-trouver-un-chemin/images/10EbD0NZUuo8R5HN2Im73-A.png)
+![](fr-wardley-maps/02-trouver-un-chemin/images/figure-014.png)
 
 _Figure 14 — Un canevas pour la chaîne de valeur_
 
@@ -120,7 +126,7 @@ Les composants de premier niveau (c'est-à-dire vos capacités, ce que vous prod
 
 Dans la figure 15, j'ai fourni une chaîne de valeur pour notre service de photo en ligne en ajoutant le terme superflu "besoins" pour souligner qu'il s'agit d'une chaîne de besoins. Évidemment, pour des raisons de simplicité, tout n'est pas inclus, par exemple le paiement. Avant que vous ne posiez la question, la plupart des utilisateurs ont besoin de ne pas être accusés de vol, de sorte que fournir une capacité de paiement est tout à fait utile à la fois pour eux et pour votre entreprise, à condition que vous ne donniez pas tout gratuitement.
 
-![](fr-wardley-maps/02-trouver-un-chemin/images/1MJncHbPFjIfhArv_NnzH2A.png)
+![](fr-wardley-maps/02-trouver-un-chemin/images/figure-015.png)
 
 _Figure 15 — Une chaîne de valeur_
 
@@ -128,13 +134,15 @@ Pour rappel, les éléments situés en haut de l'échelle sont plus visibles et 
 
 Mais aussi, ne perdez pas de temps à essayer de créer la chaîne de valeur parfaite afin d'élaborer une carte parfaite. Ce n'est pas seulement impossible, c'est inutile. Toutes les cartes, y compris les cartes géographiques, sont des représentations imparfaites de ce qui existe. Pour dessiner une carte géographique parfaite, il faudrait utiliser une échelle de 1 à 1. Dans ce cas, la carte ayant la taille du paysage qu'elle couvre est tout sauf utile. Une carte de la France à la taille de la France ne sert à rien.
 
-### Etape 3 — Cartographier
+---
+
+## Etape 3 — Cartographier
 
 Comme je l'ai rapidement découvert, les chaînes de valeur en tant que telles sont relativement inutiles pour comprendre le jeu stratégique dans un environnement. En effet, elles n'offrent aucune forme de contexte sur la façon dont l'environnement évolue, c'est-à-dire qu'elles manquent de mouvement. Si l'on reprend l'exemple de Nokia, ses chaînes de valeur ont radicalement changé au fil du temps, passant d'une usine de papier à une entreprise de télécommunications. Pour comprendre l'environnement, nous devons donc saisir cet aspect du changement et le combiner avec notre chaîne de valeur.
 
 Le principal problème lié à la compréhension du contexte dans lequel une chose fonctionne est que ce processus de changement et la manière dont les choses évoluent ne peuvent pas être mesurés dans le temps. Aussi inconfortable que cela puisse paraître, il faut simplement accepter de ne pas avoir de boule de cristal et donc accepter l'incertitude des changements à venir. Heureusement, il y a une astuce : si l'évolution ne peut être mesurée dans le temps, les différents stades de l'évolution peuvent être décrits. C'est donc exactement ce que vous devez faire. Prenez votre chaîne de valeur et transformez-la en une carte avec un axe d'évolution. Sur le mur ou dans l'outil que vous avez utilisé pour créer votre chaîne de valeur, ajoutez une ligne horizontale pour l'évolution. Marquez des sections pour la genèse, le sur-mesure, le produit et la commodité, comme le montre la figure 16.
 
-![](fr-wardley-maps/02-trouver-un-chemin/images/1l8ttd7KYfIdkPi8B6DRN6g.png)
+![](fr-wardley-maps/02-trouver-un-chemin/images/figure-016.png)
 
 _Figure 16 — Ajouter l'évolution à votre chaîne de valeur_
 
@@ -154,17 +162,17 @@ Il y a de nombreuses raisons à cela, dont certaines sont dues à l'inertie et a
 
 Si nous pensons à la cartographie d'un salon de thé, nous pourrions affirmer que notre gâteau au citron est fait maison et qu'il est donc fabriqué sur mesure. Mais en réalité, la fourniture d'un gâteau dans un salon de thé est-elle quelque chose de rare et donc de relativement nouveau ? Ou bien l'utilisateur s'attend-il à ce qu'un salon de thé propose des gâteaux, ce qui est courant ? Vous pouvez commercialiser le gâteau comme étant fait maison, mais ne confondez pas ce que vous commercialisez avec ce qu'il est. Le salon de thé d'en face pourrait tout aussi bien acheter des gâteaux produits en série, les agrémenter de quelques finitions et les décrire comme des gâteaux faits maison. S'il est moins cher, tout aussi savoureux, plus homogène et que l'utilisateur s'attend à ce qu'il soit la norme dans un salon de thé, vous serez désavantagé. Il en va de même si vous construisez votre propre grille-pain Thomas Thwaites plutôt que d'acheter une version standard pour faire des toasts. Pour vous aider dans le processus de remise en question, j'ai ajouté une antisèche à la figure 17 pour les caractéristiques des activités. La manière dont elle a été créée sera abordée dans les chapitres suivants, mais pour l'instant, utilisez-la simplement comme un guide. Si les discussions continuent à faire rage, vérifiez si le composant est en fait composé de plusieurs sous-composants.
 
-![](fr-wardley-maps/02-trouver-un-chemin/images/1Hr-7aM2-IW34edpBtnKWQQ.png)
+![](fr-wardley-maps/02-trouver-un-chemin/images/figure-017.png)
 
 _Figure 17 — L'antisèche_
 
-Ne vous inquiétez pas si certains termes sont confus dans l'antisèche, utilisez simplement ce que vous pouvez. Comme les échecs, la cartographie est un art et vous vous améliorerez avec la pratique. Aujourd'hui, l'intelligence topographique dans le monde des entreprises relève davantage des tablettes d'argile babyloniennes que des cartes d'arpentage industrielles. L'art en est encore au stade de la construction sur mesure ([voir l'aide-mémoire ci-dessus](/7ce9dfb7dbc94c4fb996dcd7c0dd23e6#cdfeff92a0064a56a65120a669ffd038)).
+Ne vous inquiétez pas si certains termes sont confus dans l'antisèche, utilisez simplement ce que vous pouvez. Comme les échecs, la cartographie est un art et vous vous améliorerez avec la pratique. Aujourd'hui, l'intelligence topographique dans le monde des entreprises relève davantage des tablettes d'argile babyloniennes que des cartes d'arpentage industrielles. L'art en est encore au stade de la construction sur mesure.
 
 Vous devriez vous efforcer de réaliser une carte complète d'un secteur d'activité en quelques heures, même s'il n'y a rien de mal à prendre plus de temps lors de vos premières tentatives afin de vous habituer au processus. Je crains qu'il n'y ait un gros inconvénient à cela. La cartographie, comme l'apprentissage des échecs, est quelque chose que vous et votre équipe êtes les seuls à pouvoir faire. Vous devrez suivre la voie que j'ai empruntée lorsque j'étais PDG et apprendre à cartographier. Vous ne pouvez pas sous-traiter la cartographie à quelqu'un d'autre, pas plus que vous ne pouvez sous-traiter l'apprentissage du jeu d'échecs à un cabinet de conseil. Techniquement, vous pouvez le faire, mais vous n'apprendrez rien et vous deviendrez dépendant de l'entreprise, qui vous demandera sans cesse votre prochain mouvement. Pour être honnête, c'est ce que beaucoup d'entre nous ont fait, mais si cela vous convient, arrêtez de lire ce livre et demandez votre stratégie à un cabinet de conseil. Si cela ne vous convient pas, sachez que la valeur que vous tirerez de la cartographie augmentera avec la quantité de travail que vous consacrerez à son utilisation répétée.
 
 Il convient également de noter que lorsque vous ajoutez des pratiques, des données et des connaissances à votre carte, vous pouvez utiliser la même antisèche pour chaque étape de l'évolution, c'est-à-dire que les données modélisées (voir figure 10) doivent être largement répandues, communément comprises, essentielles et considérées comme bien définies. Elles partagent les mêmes caractéristiques que les activités liées aux commodités. Une fois que vous avez placé les composants à leur stade respectif au mieux de vos capacités, vous disposez d'une carte, comme le montre la figure 18. N'oubliez pas que cette carte a été établie pour un service de photos en ligne en 2005 et que la composition des éléments et leur position ne seront donc pas les mêmes qu'aujourd'hui. En 2016, nous attendons beaucoup plus d'un service de photos en ligne. La carte est donc fluide et en constante évolution.
 
-![](fr-wardley-maps/02-trouver-un-chemin/images/1aBw7WVHYdishIeMqUMlHBA.png)
+![](fr-wardley-maps/02-trouver-un-chemin/images/figure-008.png)
 
 _Figure 18 — La carte_
 

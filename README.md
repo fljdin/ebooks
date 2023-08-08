@@ -1,3 +1,3 @@
 # epub-generator
 
-On-demande Markdown to EPUB generator
+On-demand Markdown to EPUB generator

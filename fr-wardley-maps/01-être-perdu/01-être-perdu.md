@@ -6,7 +6,7 @@ reference:
   url: https://fabulous-cruiser-75d.notion.site/Chapitre-1-Sur-la-perte-de-rep-res-1fe1cd789faa47f894fb691160d14948
 ---
 
-## Chapitre 1 — Être perdu
+# Chapitre 1 — Être perdu
 
 Voici l'histoire de mon voyage, d'un PDG empoté et confus, perdu dans les feux du changement, à celui qui avait une vague idée de ce qu'il faisait. Je dis vague, car je ne vais pas faire de grandes revendications sur les techniques que je discute dans ce livre. Il suffit de dire que je les ai trouvées utiles au cours de la dernière décennie, que ce soit pour trouver des opportunités, éliminer les pertes, aider à organiser une équipe de personnes ou déterminer la stratégie d'une entreprise. Est-ce qu'elles vous aideront ? Tout dépend du contexte dans lequel vous opérez, mais comme les techniques ne prennent pas beaucoup de temps à apprendre, je laisserai au lecteur ou à la lectrice le soin de découvrir si elles lui sont utiles ou non. N'oubliez pas, tous les modèles sont faux, mais certains sont utiles.
 
@@ -28,11 +28,13 @@ J'ai commencé à utiliser des matrices 2x2, des SWOT, des forces de Porter et t
 
 J'ai rapidement découvert qu'au-delà de la haute direction, personne ne comprenait vraiment notre stratégie malgré toutes nos discussions, nos réunions quotidiennes et notre assemblée hebdomadaire. Je doutais également que la haute direction la comprenne. J'étais certainement incertain à ce sujet. Je me suis tourné vers l'intérieur, le problème, c'était moi ! Le jour du jugement dernier allait arriver quand tout le monde s'apercevrait que derrière le succès, les bénéfices, les déclarations audacieuses et l'extérieur confiant se cachait une masse de doutes. Ils allaient découvrir que je faisais semblant. Je ne devrais pas être le PDG. À ce moment-là, à la mi-2004, j'étais submergé par l'incertitude et facilement influençable par n'importe quel consultant ou consultante vendant de la poudre de perlimpinpin. Je l'aurais volontiers acheté. Une caisse entière de ce truc.
 
-### Sérendipité
+---
+
+## Sérendipité
 
 Par hasard, j'avais pris une copie de "L'art de la guerre" de Sun Tzu. À vrai dire, j'ai pris plusieurs traductions différentes, car le libraire m'avait dit qu'aucune d'entre elles n'était tout à fait la même. C'était un heureux hasard et je dois remercier ce libraire. En effet, c'est en lisant la seconde traduction que j'ai remarqué quelque chose qui m'avait échappé dans ma compréhension de la stratégie. Sun Tzu avait décrit cinq facteurs qui comptent dans la compétition entre deux adversaires. Succinctement il s'agit de : — l’objectif, du paysage, du climat, de la doctrine et du leadership. Je les ai dessinés sous forme de cercle dans la figure 1.
 
-![](fr-wardley-maps/01-être-perdu/images/1RSH2vh_xgQtjB68Zb7oBaA.png)
+![](fr-wardley-maps/01-être-perdu/images/figure-001.png)
 
 _Figure 1 — Les cinq facteurs_
 
@@ -60,7 +62,7 @@ Aux échecs, la stratégie consiste à déterminer le pourquoi du mouvement, c'e
 
 C'est en comprenant le paysage, les règles du jeu et le contexte spécifique que j'ai commencé à maîtriser les échecs. Mais, ce n'était pas ce que je faisais dans le monde des affaires. Je n'avais aucun moyen de visualiser l'environnement, aucun moyen de déterminer pourquoi ici plutôt que là, et aucun mécanisme évident d'apprentissage d'un jeu à l'autre. J'ai ajouté ces deux types de "pourquoi" à la figure 2, en m'appuyant sur les cinq facteurs de Sun Tzu.
 
-![](fr-wardley-maps/01-être-perdu/images/1oedrZ78WV5eOaiVxhV5qow.png)
+![](fr-wardley-maps/01-être-perdu/images/figure-002.png)
 
 _Figure 2 — Les deux types de pourquoi_
 
@@ -82,7 +84,9 @@ J'ai rencontré quelques-uns de mes collègues d'autres entreprises et j'ai lanc
 
 Dans le désert technologique d'Old Street à Londres, nous avons dominé le langage informatique [Perl](https://fr.wikipedia.org/wiki/Perl_(langage)). Nous disposions de taux d'exécution remarquables, d'une technologie exceptionnelle, d'une équipe exceptionnelle et d'une forte culture de développement. Tout cela était parfait. Le problème, c'était le PDG, c'est-à-dire moi. J'étais nul en stratégie ou, au mieux, je l'inventais et nous n'apprenions rien. Je me suis dit qu'aucun de mes pairs n'allait me dire comment ils s'y prenaient, que ce n'était probablement pas dans leur intérêt. Mais, j'étais persuadé que c'était important et j'ai continué à creuser.
 
-### L'importance des cartes dans l'histoire militaire
+---
+
+## L'importance des cartes dans l'histoire militaire
 
 C'est à cette époque que j'ai lu l'histoire de [Ball's Bluff](https://fr.wikipedia.org/wiki/Bataille_de_Ball%27s_Bluff). Cet engagement n'est pas souvent cité comme l'un des plus importants de la guerre de Sécession, mais il n'a pas seulement été l'un des plus importants de 1861, il a aussi entraîné la déroute totale des forces de l'Union. Ball's Bluff est surtout une leçon abjecte sur l'importance des cartes et de la connaissance de la situation. Après une mauvaise information et un mauvais calcul, 1 700 soldats de l'Union ont été pris dans un terrain défavorable et ont été massacrés par les Confédérés (avec un taux de mortalité de 8 contre 1). Un millier d'hommes ont été perdus parce que les généraux de l'Union n'avaient aucune connaissance du paysage et qu'ils ont dirigé aveuglément leurs soldats vers la mort en se fondant sur de vagues idées telles que "parce que les Confédérés sont quelque part là-bas".
 
@@ -98,9 +102,13 @@ Je fuirai en panique.
 
 Dans la figure 3, j'ai placé côte à côte une carte de la bataille des Thermopyles et un diagramme SWOT pour la même bataille.
 
-![](fr-wardley-maps/01-être-perdu/images/1Uk5tLoqC16H8baB2BJbrsw.png)
+![](fr-wardley-maps/01-être-perdu/images/figure-003-1.png)
 
-_Figure 3 — SWOT de Thémistocle_
+_Figure 3-1 — Carte de la bataille des Thermopyles_
+
+![](fr-wardley-maps/01-être-perdu/images/figure-003-2.png)
+
+_Figure 3-2 — SWOT de Thémistocle_
 
 Maintenant, demandez-vous ce qui serait le plus efficace au combat : une stratégie fondée sur la compréhension du paysage ou un diagramme SWOT ? Qu'est-ce qui serait le plus utile pour déterminer où se défendre contre la horde de l'armée de Xerxès ? Lequel vous aiderait à communiquer votre plan ? Thémistocle serait-il capable d'exploiter le paysage à partir d'un SWOT ? Qu'est-ce que j'utilisais dans la gestion de mon entreprise — une carte ou un SWOT ? La mauvaise.
 
@@ -110,13 +118,15 @@ Je savais que nous prenions des décisions dans le vide, que nous recourions à 
 
 J'ai commencé à imaginer à quoi ressemblerait un paysage dont je n'avais pas conscience. J'ai décidé d'utiliser l'analogie des échecs pour faire cette comparaison, car la perception commune des PDG dans les publications économiques est celle de grands maîtres jouant à un jeu complexe. Au moins, j'avais une certaine expérience de ces deux choses, mais pas nécessairement simultanément.
 
-### Une partie d'échecs
+---
+
+## Une partie d'échecs
 
 Je vais vous faire vivre la même expérience de pensée que moi. Rappelez-vous, en 2004, je n'avais rien pour étayer mon idée que la connaissance de la situation et l'intelligence topographique pouvaient être importantes pour les entreprises. J'étais sur la brèche, sans rien pour m'appuyer.
 
 Je veux que vous imaginiez maintenant que vous vivez dans un monde où tout le monde joue aux échecs et où la qualité de votre jeu détermine votre succès et votre rang dans ce monde. Cependant, dans ce monde, personne n'a jamais vu d'échiquier. En fait, tout ce que vous avez vu, ce sont les caractères suivants sur un écran. Vous jouez ainsi le jeu en cliquant simplement sur un des caractères, votre adversaire riposte, puis vous ripostez, et ainsi de suite. La liste des coups est enregistrée sous les caractères.
 
-![](fr-wardley-maps/01-être-perdu/images/1fKQnKEcAIUUgiZxfIuq87w.png)
+![](fr-wardley-maps/01-être-perdu/images/figure-004.png)
 
 _Figure 4 — Le monde des échecs (Pawn = pion, Queen = reine)_
 
@@ -126,7 +136,7 @@ Les gourous écriront des livres sur les "Secrets de la Reine" et les gens copie
 
 Imaginez maintenant que vous jouiez contre quelqu'un qui peut voir quelque chose de vraiment remarquable - le plateau. Dans ce jeu, vous déplacerez le pion (w), l'adversaire contrera le pion (b), vous déplacerez à nouveau le pion (w), il contrera la dame (b) et vous aurez perdu. Je l'ai illustré dans la figure 5 ci-dessous.
 
-![](fr-wardley-maps/01-être-perdu/images/1-yrQMUlXPPQ-2PJ71nWThQ.png)
+![](fr-wardley-maps/01-être-perdu/images/figure-005.png)
 
 _Figure 5 — Le monde des échècs VS le plateau (Pawn = pion, Queen = reine)_
 
@@ -136,7 +146,9 @@ Vous commencerez probablement à vous demander s'il n'y a pas un autre facteur d
 
 Pour un jeune PDG, cela commençait à être assez inquiétant. J'avais l'impression d'être le joueur qui appuyait sur les boutons sans voir le tableau. Pour l'instant, tout allait bien, mais que se passerait-il si nous étions confrontés à un tel concurrent ? S'il pouvait voir le plateau, j'étais grillé. Il me fallait un moyen de déterminer à quel point ma connaissance de la situation était mauvaise.
 
-### Catégorisation de la connaissance de la situation
+---
+
+## Catégorisation de la connaissance de la situation
 
 Le problème auquel j'étais confronté consistait à déterminer si je comprenais ou non le paysage des affaires. Je savais que l'apprentissage aux échecs et dans les campagnes militaires était différent de ce que je faisais dans les affaires, mais comment ? J'ai mis une carte et une image d'échiquier côte à côte et j'ai commencé à les examiner. Qu'est-ce qui rendait ces cartes utiles ?
 
@@ -154,7 +166,9 @@ Dans un environnement où la conscience de la situation est élevée, comme sur 
 
 Je savais que j'avais besoin d'une forme de carte pour comprendre le paysage, apprendre et déterminer une stratégie. Cependant, le paysage n'était qu'un des facteurs manquants. Qu'en est-il des autres facteurs dont Sun Tzu avait parlé ?
 
-### Climat, doctrine et leadership
+---
+
+## Climat, doctrine et leadership
 
 On peut considérer le climat comme les règles du jeu. Par exemple, on n'envoie pas la marine dans une tempête, pas plus que l'on envoie des troupes marcher sur une falaise. J'avais entendu [Richard Feynman](https://fr.wikipedia.org/wiki/Richard_Feynman) dire que l'on pouvait apprendre les règles du jeu d'échecs simplement en observant l'échiquier au fil du temps. Peut-être y a-t-il des règles commerciales que je pourrais découvrir si je pouvais cartographier l'environnement ? Peut-être que tout n'était pas si aléatoire ? Mais, le climat, ce n'est pas seulement les règles du jeu, ce sont aussi les actions de l'adversaire et la façon dont vous pouvez anticiper le changement. Malheureusement, sans carte, j'étais coincé.
 
@@ -170,7 +184,9 @@ Malheureusement, je n'avais fait que copier les sages hommes et femmes d'affaire
 
 À ce moment-là, mes tripes se sont nouées. Je n'avais manifestement aucune idée sur quoi que ce soit et je dirigeais l'entreprise. Où les menais-je ? Je n'en avais aucune idée, cela pouvait être au bord d'une falaise. Même la manière dont je leur disais d'agir pouvait complètement être erronée. Je ressemblais à général qui ordonne à ses troupes de marcher sur la falaise dans un mouvement de flanc tout en s'entraînant à tirer au fusil. Ce n'est pas exactement l'avenir que j'avais espéré. Mais, nous avons tout de même réussi. Je n'arrivais pas à comprendre cette partie et je continuais à penser que je m'inquiétais pour rien. Mais, nous n'avions pas de cartes et, sans cartes, nous n'avions aucun moyen de connaître les schémas courants qui affectent notre paysage, ni d'anticiper d'éventuels changements, ni de déterminer le pourquoi d'un mouvement. Nous ignorions vraiment si un changement sur le marché était dû à nous ou à une autre force. Si nous ne pouvons pas voir l'environnement dans lequel nous sommes en concurrence, comment pouvons-nous déterminer si une approche réussie est universelle ou spécifique à cet environnement ? Si je ne peux pas distinguer ce qui est spécifique au contexte, comment déterminer ce qui relève de la doctrine, c'est-à-dire de l'universalité, de ce qui relève du leadership, c'est-à-dire du contexte ? Tout était en désordre.
 
-### Le cycle de la stratégie
+---
+
+## Le cycle de la stratégie
 
 J'étais franchement désemparé. Au moins, j'avais trouvé cinq facteurs que je voulais utiliser pour fixer notre stratégie, même si je n'avais aucune idée de la manière de le faire. Cependant, cela posait un autre problème. Quel est l'ordre à respecter ? Le climat est-il plus important que le paysage ? Le leadership est-il plus important que l'objectif ? Existe-t-il un ordre strict dans lequel nous évoluons dans ces domaines ? Au moins, nous avions notre objectif, même s'il était un peu nul. Ce petit réconfort n'a pas duré longtemps.
 
@@ -180,7 +196,7 @@ Cet exemple vise à de démontrer trois choses. Tout d'abord, le processus strat
 
 La meilleure façon que j'ai trouvée pour faire face à ce cycle est le travail du major fou lui-même — l'exceptionnel John Boyd. Afin de comprendre le processus du combat aérien, John Boyd a développé la boucle OODA. Il s'agit d'un cycle d'observation de l'environnement, d'orientation, de décision et d'action. Dans la figure 7 ci-dessous, j'ai marié Sun Tzu et John Boyd pour créer un cycle de stratégie.
 
-![](fr-wardley-maps/01-être-perdu/images/1fiwMV1ucsm0nk6XPY4wxkg.png)
+![](fr-wardley-maps/01-être-perdu/images/figure-007.png)
 
 _Figure 7 — Le cycle de la stratégie_
 
