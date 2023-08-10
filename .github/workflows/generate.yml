@@ -18,7 +18,7 @@ jobs:
         id: chapters
         run: |
           mkdir output
-          echo "files=$(printf '"%s" ' $(find ${{ github.event.inputs.book }} -name '*.md'))" > $GITHUB_OUTPUT
+          echo "files=$(printf '"%s" ' $(find ${{ github.event.inputs.book }} -name '*.md' | sort))" > $GITHUB_OUTPUT
 
       - uses: docker://pandoc/latex:3.1
         with:
