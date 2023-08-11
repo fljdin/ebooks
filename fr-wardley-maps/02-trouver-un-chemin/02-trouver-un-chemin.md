@@ -50,7 +50,7 @@ J'aurais pu décrire cela comme une chaîne de besoins, mais je voulais mettre l
 
 Les composantes de la carte ont également un stade d'évolution. Il s'agit de :
 
-La Genèse. Elle représente l'unique, le très rare, l'incertain, le changement constant et la nouvelle découverte. Nous mettons l'accent sur l'exploration.
+* La Genèse. Elle représente l'unique, le très rare, l'incertain, le changement constant et la nouvelle découverte. Nous mettons l'accent sur l'exploration.
 
 * Le Construit sur mesure. Il s'agit de ce qui n'est pas courant et de ce que nous sommes encore en train d'apprendre. Il est fabriqué individuellement et taillé sur mesure pour un environnement spécifique. Il est sur mesure. Il change fréquemment. Il s'agit d'un savoir-faire artisanal. On ne s'attend pas à en voir deux identiques. A cette étape, nous mettons l'accent sur l'apprentissage et sur notre métier.
 
@@ -180,7 +180,9 @@ La prochaine chose à faire est de partager votre carte avec d'autres membres de
 
 J'ai constaté par la suite que ce processus de partage permet non seulement d'affiner la carte, mais aussi de se l'approprier. Vous devriez également profiter de ce temps pour examiner les besoins non satisfaits, les éléments manquants et vous demander si vous traitez les choses de la bonne manière. Il est souvent surprenant de constater que de nombreuses entreprises consacrent d'importantes ressources à la construction de leur propre grille-pain Thomas Thwaites métaphorique, alors qu'une version de base est facilement disponible.
 
-### La prochaine étape
+---
+
+## La prochaine étape
 
 Avec une carte en main, nous sommes maintenant prêts à commencer à explorer le cycle de la stratégie et, espérons-le, à en tirer des leçons utiles. C'est du moins ce que j'espérais en 2005. Dans le prochain chapitre, j'ai l'intention de vous montrer ce que j'ai découvert. Mais avant cela, j'ai une demande à vous faire.
 
