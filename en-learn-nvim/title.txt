@@ -1,0 +1,11 @@
+---
+title:
+- type: main
+  text: Learn Neovim
+creator: 
+- role: author
+  text: Ofir Gal
+  reference: https://ofirgall.github.io/learn-nvim/
+rights: MIT Copyright (c) 2022 Ofir Gal
+lang: en-US
+---

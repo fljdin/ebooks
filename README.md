@@ -1,3 +1,3 @@
-# epub-generator
+# Ebooks collection
 
-On-demande Markdown to EPUB generator
+Ebooks collection with markdown-to-epub on-demand workflow 
